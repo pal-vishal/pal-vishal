@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [jumpingMinds.ai](https://play.google.com/store/apps/details?id=com.jumpingminds)
 
-- 🌱 I’m currently learning **building scalable apps, Kotlin Multiplatform, iOS development**
+- 🌱 I’m currently learning **building scalable apps, compose, kotlin multiplatform**
 
 - 👯 I’m looking to collaborate on **Compose based apps**
 
