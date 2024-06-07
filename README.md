@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Pal</h1>
 <h3 align="center">Android engineer with a keen interest to solve challenges in mobile world.</h3>
 
-- 🔭 I’m currently working at [jumpingMinds.ai](https://play.google.com/store/apps/details?id=com.jumpingminds)
+- 🔭 Worked at [jumpingMinds.ai](https://play.google.com/store/apps/details?id=com.jumpingminds)
 
 - 🌱 I’m currently learning **building scalable apps, compose, kotlin multiplatform**
 
